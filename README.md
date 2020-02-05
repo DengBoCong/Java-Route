@@ -40,3 +40,5 @@ Docker Hub [地址](https://hub.docker.com/)
 
 # 其他
 + 各类翻墙软件合集 [地址](https://github.com/it-andy-hou/fq)
++ XMind [地址](https://www.xmind.cn/)
++ MathPix [地址](https://mathpix.com/)
